@@ -16,3 +16,4 @@
 1. ![image](https://github.com/jeongahn/Network_programming/assets/54920329/f79c38ca-3d40-43f0-8fe0-1d159589fde1)
 2. ![image](https://github.com/jeongahn/Network_programming/assets/54920329/c2a3f746-d53f-44b8-9e17-41de2d418914)
 
+##### 코드 컴파일 명령어 : gcc -o Packet_info Packet_info.c -lpcap
